@@ -19,13 +19,13 @@ width: 100vw;
 .purple {
 background-color: #7D33FF;
 display: flex;
-  height: 50vh;
+  height: 80vh;
   width: 50vw;
 }
 .blue {
   background-color: #3633FF;
   display: flex;
-  height: 50vh;
+  height: 80vh;
   width: 50vw;
 }
 .button {
@@ -91,4 +91,5 @@ background-color: #758B9C;
   display: flex;
 	
 }
+
 
