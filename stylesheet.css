@@ -35,14 +35,51 @@ display: flex;
 	margin: auto;
     border: 3px solid green;
 }
-.column-2 {
+.flex-container {
 	height: 50vh;
-	width: 100vw;
-}
-.slideshow {
-	background-color: #808080;
 	width: 50vw;
-	height: 50vh;
-	margin: auto;
-	border: 20px solid white;
+	display: flex;
+	flex-wrap: wrap;
 }
+.comic1 {
+	background-color: #B3DACF;
+	width: 25vw;
+	height: 50vh;
+	
+}
+.comic2 {
+background-color: #758B9C;
+	width: 25vw;
+	height: 50vh;
+}
+.comic3 {
+	background-color: #0E216F;
+	width: 25vw;
+	height: 50vh;
+}
+.comic4 {
+	background-color: #CA70AB;
+	width: 25vw;
+	height: 50vh;
+}
+.comic5 {
+	background-color: #CA7074;
+	width: 25vw;
+	height: 50vh;
+}
+.comic6 {
+	background-color: #7D282C;
+	width: 25vw;
+	height: 50vh;
+}
+.comic7 {
+	background-color: #3ACD62;
+	width: 25vw;
+	height: 50vh;
+}
+.comic8 {
+	background-color: #218E85;
+	width: 25vw;
+	height: 50vh;
+}
+
