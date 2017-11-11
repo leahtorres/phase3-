@@ -15,17 +15,18 @@ width: 100vw;
 .yellow {
 	display: flex;
 	height: calc(20vh - 6px);
+	width: 100vw;
 }
 .purple {
 background-color: #7D33FF;
 display: flex;
-  height: 80vh;
+  height: 50vh;
   width: 50vw;
 }
 .blue {
   background-color: #3633FF;
   display: flex;
-  height: 80vh;
+  height: 50vh;
   width: 50vw;
 }
 .button {
