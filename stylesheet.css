@@ -36,8 +36,6 @@ display: flex;
     border: 3px solid green;
 }
 .flex-container {
-	height: 50vh;
-	width: 50vw;
 	display: flex;
 	flex-wrap: wrap;
 }
